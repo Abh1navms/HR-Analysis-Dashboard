@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F60000&center=true&vCenter=true&width=435&lines=HR+Analysis+Dashboard+📊;Employee+Insights+Made+Simple+💼" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F50000&center=true&vCenter=true&width=500&lines=HR+Analysis+Dashboard+📊;Explore+Employee+Insights+💼" alt="Typing SVG" />
 </p>
+
 
 # 🧑‍💼 HR Analysis Dashboard
 
