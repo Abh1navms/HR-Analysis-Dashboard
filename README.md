@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F50000&center=true&vCenter=true&width=500&lines=HR+Analysis+Dashboard+📊;Explore+Employee+Insights+💼" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=HR+Analysis+Dashboard+%F0%9F%93%8A;Explore+Employee+Insights+%F0%9F%92%BC;Built+with+Power+BI+%F0%9F%92%9B" alt="Typing SVG" />
 </p>
 
 
